@@ -36,3 +36,11 @@ permalink: /session06/
 - researchers / scientists
 
 ## How is software developed?
+
+- design
+- build
+- test
+- depoy
+
+- slow, deliberate cycle (waterfall)
+- fast, feedback driven cycles (agile)
