@@ -31,3 +31,11 @@ permalink: /session03/
 - designers
 
 ## How is software developed?
+
+- design
+- build
+- test
+- deploy
+
+- really long cycles (waterfall)
+- short, repeating cycles (agile)
