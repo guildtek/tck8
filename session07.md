@@ -37,3 +37,11 @@ permalink: /session07/
 - researcher / scientist
 
 ## How is software developed?
+
+- design
+- build
+- test
+- deploy
+
+- slow deliberate cycle (waterfall)
+- fast, feedback driven cycles (agile)
