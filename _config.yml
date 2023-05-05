@@ -22,8 +22,8 @@ title: Three Creeks K-8 Career Day
 email: luke.guildner@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A short session about what its like to work on software.
-baseurl: "guildtek.github.io" # the subpath of your site, e.g. /blog
-url: "tck8" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: tkc8 # the subpath of your site, e.g. /blog
+url: guildtek.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: guildner
 github_username:  guildner
 
