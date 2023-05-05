@@ -10,7 +10,7 @@ My name is Luke Guildner.
 
 I work as a **Software Engineering Manager** at Broadcom, Inc. in Broomfield, CO.
 
-I work on a product called Rally Software.
+I work on a product called [Rally Software](https://www.broadcom.com/products/software/value-stream-management/rally).
 
 I have been working in software engineering for 16 years.
 
