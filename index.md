@@ -2,4 +2,4 @@
 layout: home
 ---
 
-- What is Software? test.
+- What is Software?
