@@ -43,7 +43,7 @@ permalink: /session05/
 
 ## How is software developed?
 
-- desgn
+- design
 - build
 - test
 - deploy
