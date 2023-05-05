@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-I am Luke Guildner.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-I am a Software Engineering Manager at Broadcom, Inc. in Broomfield, CO.
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
 
-I work on a product called Rally Software.
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
 
-I have been working in software engineering for 16 years.
 
-My degree: Bachelors of Science in Computer Science and Engineering from the University of Colorado at Denver.
-
+[jekyll-organization]: https://github.com/jekyll
