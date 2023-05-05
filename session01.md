@@ -33,3 +33,11 @@ permalink: /session01/
 - researcher or scientist
 
 ## How is software developed?
+
+- design
+- build
+- test
+- deploy
+
+- one big cycle - waterfall
+- lots of short cycles - agile
