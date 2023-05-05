@@ -1,5 +1,4 @@
 ---
 layout: home
+title: What is software?
 ---
-
-- What is Software?
