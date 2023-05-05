@@ -1,10 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
----
-
-#About Me
 ---
 
 I am Luke Guildner.
