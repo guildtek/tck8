@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Luke Guildner.
 
-![](/resouces/guildner.jpg "Luke Guildner")
+![](/resources/guildner.jpg "Luke Guildner")
 
 I work as a **Software Engineering Manager** at Broadcom, Inc. in Broomfield, CO.
 
