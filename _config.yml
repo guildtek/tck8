@@ -28,7 +28,7 @@ twitter_username: guildner
 github_username:  guildner
 
 # Build settings
-theme: minima
+remote-theme: 
 plugins:
   - jekyll-feed
   - jekyll-titles-from-headings
