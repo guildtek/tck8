@@ -2,4 +2,4 @@
 layout: home
 ---
 
-## What Is Software Engineering?
+- What is Software?
