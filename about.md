@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About Me
+title: 00 - About Me
 permalink: /about/
 ---
 
-I am Luke Guildner.
+My name is Luke Guildner.
 
-I am a Software Engineering Manager at Broadcom, Inc. in Broomfield, CO.
+![Picture of Luke Guildner](resouces/guildner.jpg "Luke Guildner")
+
+I work as a *Software Engineering Manager* at Broadcom, Inc. in Broomfield, CO.
 
 I work on a product called Rally Software.
 
 I have been working in software engineering for 16 years.
 
-My degree: Bachelors of Science in Computer Science and Engineering from the University of Colorado at Denver.
+My degree: 
+
+Bachelors of Science in *Computer Science and Engineering* from the University of Colorado at Denver.

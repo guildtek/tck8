@@ -1,7 +1,13 @@
 ---
 layout: page
-title: First Session
+title: 01 - First Session
 permalink: /session01/
 ---
 
-# First Session
+## What is software?
+
+## Where is software used?
+
+## Who develops and works on software?
+
+## How is software developed?
