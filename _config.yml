@@ -28,7 +28,7 @@ twitter_username: guildner
 github_username:  guildner
 
 # Build settings
-remote-theme: pages-themes/tactile@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
 
