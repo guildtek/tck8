@@ -35,3 +35,6 @@ permalink: /session02/
 - researcher / scientist
 
 ## How is software developed?
+
+- design, build, test, deploy - one big cycle (waterfall)
+- lots of small cycles (Agile)
